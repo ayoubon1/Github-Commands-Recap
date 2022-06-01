@@ -1,3 +1,7 @@
 backend
 frontend
 ------
+to initiate a repository in github : <git init>
+to create and switch to a new branch called pele: <git checkout -b pele>
+to  : git branch
+gitflow

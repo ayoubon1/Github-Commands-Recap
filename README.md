@@ -1,9 +1,9 @@
 # maps
-git init
-git add .
-git commit -m "init the repo"
-git remote add origin htttps.....
-git push -u origin master
+git init  
+git add .  
+git commit -m "init the repo"  
+git remote add origin htttps.....  
+git push -u origin master  
 #branch develop
 git checkout -b develop
 git add .

@@ -1,7 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Made+By;+Ayoub+KHOUADRI;" />
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=500&height=70&duration=1500&lines=Made+By+Ayoub+KHOUADRI;" />
+
 ## Versionning the right way
 After creating and setting up a repo 
-```
+```bash
 git init 
 git commit --allow-empty -m "🎉 init master branch"
 git remote add origin <link to gihtub new repo>
